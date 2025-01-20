@@ -56,6 +56,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
   - [LLM Surveys](section/survey_ref.md/#survey-on-large-language-models) | [Business use cases](section/survey_ref.md/#business-use-cases)
   - [Building LLMs](section/survey_ref.md/#build-an-llms-from-scratch-picogpt-and-lit-gpt): from scratch
   - [LLMs for Korean & Japanese](section/survey_ref.md/#llm-materials-for-east-asian-languages)
+  - [Learning and Supplementary Materials](section/survey_ref.md/#learning-and-supplementary-materials)
 - **Section 11** 🧰: [AI Tools & Extensions](section/ai_tool.md/#general-ai-tools-and-extensions)
   - [AI Tools & Extensions](section/ai_tool.md/#section-10-general-ai-tools-and-extensions)
 - **Section 12** 📊: [Datasets](section/dataset.md/#section-11-datasets-for-llm-training)
@@ -70,6 +71,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
   - `git`: GitHub link
   - `x-ref`: Cross reference
   - 📺: youtube or video
+  - 💡or 🏆: recommendation
 
 ## **Contributor** 👀
 
